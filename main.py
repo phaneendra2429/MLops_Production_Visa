@@ -1,3 +1,4 @@
+import us_visa
 def main():
     print("Hello from mlops-production-visa!")
 
